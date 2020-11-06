@@ -8,6 +8,10 @@ class Item
 {
     protected $item;
 
+    public function __construct()
+    {
+        $this->item = [];
+    }
 
     public function add(string $description, int $price, $quantity, $id)
     {
