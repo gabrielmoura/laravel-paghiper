@@ -1,0 +1,12 @@
+{
+    "name": "blx32/laravel-paghiper",
+    "description": "Biblioteca de integração Laravel do PagHiper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Moura",
+            "email": "develop@srmoura.com.br"
+        }
+    ],
+    "require": {}
+}
